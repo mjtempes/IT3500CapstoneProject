@@ -1,0 +1,32 @@
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.csproj.AssemblyReference.cache
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.frmMoneyWords.resources
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.csproj.GenerateResource.cache
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.AssemblyInfoInputs.cache
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.AssemblyInfo.cs
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\bin\Debug\netcoreapp3.1\Tempesta.Capstone.exe
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\bin\Debug\netcoreapp3.1\Tempesta.Capstone.deps.json
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\bin\Debug\netcoreapp3.1\Tempesta.Capstone.runtimeconfig.json
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\bin\Debug\netcoreapp3.1\Tempesta.Capstone.runtimeconfig.dev.json
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\bin\Debug\netcoreapp3.1\Tempesta.Capstone.dll
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\bin\Debug\netcoreapp3.1\Tempesta.Capstone.pdb
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.dll
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.pdb
+C:\Users\Michael\OneDrive - students.curry.edu\IT3500 - Object-Oriented Programing\Capstone\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.genruntimeconfig.cache
+D:\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.csproj.AssemblyReference.cache
+D:\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.frmMoneyWords.resources
+D:\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.csproj.GenerateResource.cache
+D:\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.AssemblyInfoInputs.cache
+D:\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.AssemblyInfo.cs
+D:\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.csproj.CoreCompileInputs.cache
+D:\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.dll
+D:\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.pdb
+D:\Tempesta.Capstone\Tempesta.Capstone\bin\Debug\netcoreapp3.1\Tempesta.Capstone.exe
+D:\Tempesta.Capstone\Tempesta.Capstone\bin\Debug\netcoreapp3.1\Tempesta.Capstone.deps.json
+D:\Tempesta.Capstone\Tempesta.Capstone\bin\Debug\netcoreapp3.1\Tempesta.Capstone.runtimeconfig.json
+D:\Tempesta.Capstone\Tempesta.Capstone\bin\Debug\netcoreapp3.1\Tempesta.Capstone.runtimeconfig.dev.json
+D:\Tempesta.Capstone\Tempesta.Capstone\bin\Debug\netcoreapp3.1\Tempesta.Capstone.dll
+D:\Tempesta.Capstone\Tempesta.Capstone\bin\Debug\netcoreapp3.1\Tempesta.Capstone.pdb
+D:\Tempesta.Capstone\Tempesta.Capstone\obj\Debug\netcoreapp3.1\Tempesta.Capstone.genruntimeconfig.cache
