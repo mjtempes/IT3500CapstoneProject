@@ -30,8 +30,8 @@ namespace Tempesta.Capstone
 
             if (convertedInput[0] != null)
             {
-               moneyConvertWords convert = new moneyConvertWords(convertedInput[0]);
-                lblWordsOutput.Text = convert.getWordsConversion() + " million ";
+                moneyConvertWords convert = new moneyConvertWords(convertedInput[0]);
+                lblWordsOutput.Text = convert.getWordsConversion() + " million  ";
             }
 
             if (convertedInput[1] != null)
@@ -39,20 +39,20 @@ namespace Tempesta.Capstone
                 moneyConvertWords convert = new moneyConvertWords(convertedInput[1]);
                 lblWordsOutput.Text += convert.getWordsConversion() + " thousand ";
             }
-          /*  
+
             if (convertedInput[2] != null)
             {
                 moneyConvertWords convert = new moneyConvertWords(convertedInput[2]);
-                lblWordsOutput.Text += convert.getWordsConversion() + " hundrad ";
-            }
-            */
-            if (convertedInput[2] != null)
-            {
-                moneyConvertWords convert = new moneyConvertWords(convertedInput[2]);
-                lblWordsOutput.Text += convert.getWordsConversion() + " dollars ";
+                lblWordsOutput.Text += convert.getWordsConversion() + " hundred ";
             }
 
             if (convertedInput[3] != null)
+            {
+                moneyConvertWords convert = new moneyConvertWords(convertedInput[3]);
+                lblWordsOutput.Text += convert.getWordsConversion() + " dollars ";
+            }
+
+            if (convertedInput[4] != null)
             {
                 moneyConvertWords convert = new moneyConvertWords(convertedInput[3]);
                 lblWordsOutput.Text += convert.getWordsConversion() + " Cents ";

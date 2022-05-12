@@ -56,31 +56,31 @@ namespace Tempesta.Capstone
             switch (aNumber)
             {
                 case '1':
-                    wordsConversion += "One ";
+                    wordsConversion += " One ";
                     break;
                 case '2':
-                    wordsConversion += "Two ";
+                    wordsConversion += " Two ";
                     break;
                 case '3':
-                    wordsConversion += "Three ";
+                    wordsConversion += " Three ";
                     break;
                 case '4':
-                    wordsConversion += "Four ";
+                    wordsConversion += " Four ";
                     break;
                 case '5':
-                    wordsConversion += "Five ";
+                    wordsConversion += " Five ";
                     break;
                 case '6':
-                    wordsConversion += "Six ";
+                    wordsConversion += " Six ";
                     break;
                 case '7':
-                    wordsConversion += "Seven ";
+                    wordsConversion += " Seven ";
                     break;
                 case '8':
-                    wordsConversion += "Eight ";
+                    wordsConversion += " Eight ";
                     break;
                 case '9':
-                    wordsConversion += "Nine ";
+                    wordsConversion += " Nine ";
                     break;
                 default:
                     return;
@@ -97,28 +97,28 @@ namespace Tempesta.Capstone
                     decodeTeens();
                     break;
                 case '2':
-                    wordsConversion += "Twenty ";
+                    wordsConversion += " Twenty ";
                     break;
                 case '3':
-                    wordsConversion += "Thirty ";
+                    wordsConversion += " Thirty ";
                     break;
                 case '4':
-                    wordsConversion += "Fourty ";
+                    wordsConversion += " Fourty ";
                     break;
                 case '5':
-                    wordsConversion += "Fifty ";
+                    wordsConversion += " Fifty ";
                     break;
                 case '6':
-                    wordsConversion += "Sixty ";
+                    wordsConversion += " Sixty ";
                     break;
                 case '7':
-                    wordsConversion += "Seventy ";
+                    wordsConversion += " Seventy ";
                     break;
                 case '8':
-                    wordsConversion += "Eighty ";
+                    wordsConversion += " Eighty ";
                     break;
                 case '9':
-                    wordsConversion += "Niney ";
+                    wordsConversion += " Niney ";
                     break;
                 default:
                     return;
@@ -132,34 +132,34 @@ namespace Tempesta.Capstone
             switch (toConvert[2])
             {
                 case '0':
-                    wordsConversion += "Ten ";
+                    wordsConversion += " Ten ";
                     break;
                 case '1':
-                    wordsConversion += "Eleven ";
+                    wordsConversion += " Eleven ";
                     break;
                 case '2':
-                    wordsConversion += "Twelve ";
+                    wordsConversion += " Twelve ";
                     break;
                 case '3':
-                    wordsConversion += "Thirteen ";
+                    wordsConversion += " Thirteen ";
                     break;
                 case '4':
-                    wordsConversion += "Fourteen ";
+                    wordsConversion += " Fourteen ";
                     break;
                 case '5':
-                    wordsConversion += "Fifteen ";
+                    wordsConversion += " Fifteen ";
                     break;
                 case '6':
-                    wordsConversion += "Sixteen ";
+                    wordsConversion += " Sixteen ";
                     break;
                 case '7':
-                    wordsConversion += "Seventeen ";
+                    wordsConversion += " Seventeen ";
                     break;
                 case '8':
-                    wordsConversion += "Eighteen ";
+                    wordsConversion += " Eighteen ";
                     break;
                 case '9':
-                    wordsConversion += "Nineteen ";
+                    wordsConversion += " Nineteen ";
                     break;
                 default:
                     return;

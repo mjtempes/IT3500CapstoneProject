@@ -9,7 +9,7 @@ namespace Tempesta.CapstoneDesign03
         public moneyConvertWords()
         {
             // calling the the methods for the ones, tens, teens, hundards, and thousands
-            //convert the input number into words while adding dollors at the end of the converstion.
+            //convert the input number into words  while adding dollors at the end of the converstion.
         }
 
         public int numbersOnePlace()
